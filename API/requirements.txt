@@ -1,0 +1,14 @@
+# Librería principal del framework
+Flask==2.0.2
+
+# Debe ser compatible con Flask 2.0.2, usar esta o una versión menor
+Werkzeug==2.0.3
+
+# Habilita CORS para peticiones desde el frontend
+Flask-Cors==3.0.10
+
+# Cliente de MongoDB para Python
+pymongo==3.12.1
+
+# Para hacer peticiones HTTP desde Python
+requests==2.26.0
